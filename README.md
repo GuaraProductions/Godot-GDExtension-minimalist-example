@@ -1,6 +1,6 @@
 # Godot C++ Extension Example
 
-A minimalist setup for creating Godot GDExtensions using C++.
+A minimalist project using Godot's GDExtension using C++.
 
 ## Project Structure
 

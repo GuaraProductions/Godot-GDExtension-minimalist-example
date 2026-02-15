@@ -1,0 +1,12 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1769798543
+export_presets.cfg::TextFile::-1::1768665843::0::1::::<><><>0<>0<><>::
+icon.svg::CompressedTexture2D::2317132240000189767::1768160496::1768160500::1::::<><><>0<>0<>120cae4a135b23dba6ab1870496586d6<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+node.gd::GDScript::3908224118085532021::1768162413::0::1::::<>Node<><>0<>0<><>::
+node.tscn::PackedScene::3975225866094776162::1768162413::0::1::::<><><>0<>0<><>::uid://bvxf46sn6wn86::::res://node.gd<>uid://8ao3g36koo6b::::res://icon.svg
+::res://addons/::1768162127
+::res://addons/meu-plugin-em-cpp/::1768162297
+meu-plugin.gdextension::GDExtension::8896665278738123816::1769798088::0::1::::<><><>0<>0<><>::
+::res://addons/meu-plugin-em-cpp/bin/::1768162297
+::res://bin/::1769798513
+::res://bin/Linux/::1768665842

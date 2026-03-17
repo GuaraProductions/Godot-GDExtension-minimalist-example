@@ -1,0 +1,31 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Godot (Project)",
+            "type": "lldb",
+            "request": "launch",
+            "preLaunchTask": "build-extension",
+            "program": "${config:godotTools.editorPath.godot4}",
+            "args": [
+                "--path",
+                "${config:godot.debug.projectPath}"
+            ],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "name": "Launch Godot (Single Scene)",
+            "type": "lldb",
+            "request": "launch",
+            "preLaunchTask": "build-extension",
+            "program": "${config:godotTools.editorPath.godot4}",
+            "args": [
+                "--path",
+                "${config:godot.debug.projectPath}",
+                "--scene",
+                "${config:godot.debug.scenePath}"
+            ],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}

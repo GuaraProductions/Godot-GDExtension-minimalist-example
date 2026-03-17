@@ -1,12 +1,6 @@
-[gd_scene load_steps=3 format=3 uid="uid://bwvvnh7f2kd27"]
+[gd_scene format=3 uid="uid://bwvvnh7f2kd27"]
 
-[ext_resource type="Script" uid="uid://bvxf46sn6wn86" path="res://node.gd" id="1_j2q8x"]
-[ext_resource type="Texture2D" uid="uid://8ao3g36koo6b" path="res://icon.svg" id="2_112p8"]
+[ext_resource type="Script" uid="uid://bvxf46sn6wn86" path="res://script/node.gd" id="1_sy5k4"]
 
-[node name="Node" type="Node"]
-script = ExtResource("1_j2q8x")
-
-[node name="GDExample" type="GDExample" parent="."]
-variavel_do_export = 0
-position = Vector2(15.686158, 0.5453645)
-texture = ExtResource("2_112p8")
+[node name="Node" type="Node" unique_id=1180804257]
+script = ExtResource("1_sy5k4")

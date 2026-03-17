@@ -1,0 +1,5 @@
+{
+    "godotTools.editorPath.godot4": "/caminho/do/godot4.exe",
+    "godot.debug.projectPath": "/caminho/do/projeto/com/o/arquivo/project.godot",
+    "godot.debug.scenePath": "res://cena.tscn"
+}
